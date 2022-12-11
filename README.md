@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @overskilled
+- 👋 Hi, I’m Ouatedem Yvan
 - 👀 I’m interested in Data analysis and artificial intelligence
-- 🌱 I’m currently learning Php and much of JavaScript and react
+- 🌱 I’m currently learning PHP and much of JavaScript and react
 - 💞️ I’m looking to collaborate on Inituitive projects
 - 📫 How to reach me Email: ouateedemloic@gmail.com
 
