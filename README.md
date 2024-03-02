@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ouatedem Yvan
 - 👀 I’m interested in Data analysis and artificial intelligence
-- 🌱 I’m currently On a project run mainly with Reactjs and Firebase 
+- 🌱 I’m currently on a series of projects mainly with Reactjs and Firebase, so keep track. 
 - 💞️ I’m looking to collaborate on Inituitive projects and do some contributions
 - 📫 How to reach me Email: ouateedemloic@gmail.com
 
