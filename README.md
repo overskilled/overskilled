@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ouatedem Yvan
 - 👀 I’m interested in Data analysis and artificial intelligence
-- 🌱 I’m currently learning PHP and much of JavaScript and Ruby
-- 💞️ I’m looking to collaborate on Inituitive projects
+- 🌱 I’m currently On a project run mainly with Reactjs and Firebase 
+- 💞️ I’m looking to collaborate on Inituitive projects and do some contributions
 - 📫 How to reach me Email: ouateedemloic@gmail.com
 
 ![](https://raw.githubusercontent.com/overskilled/github-stats/master/generated/overview.svg#gh-dark-mode-only)
