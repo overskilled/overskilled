@@ -1,15 +1,17 @@
-Hi 👋 My name is Rawling
+Hi 👋 My name is Yvan Ouatedem
 ======================
 
-Data Science BSc. (AI/ML Engineering)
+FullStack Developper (React & Firebase)
 -------------------------------------
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rawlingsofficial&label=Profile%20views&color=0e75b6&style=flat" alt="rawlingsofficial" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=overskiled&label=Profile%20views&color=0e75b6&style=flat" alt="overskilled" /> </p>
 
 
-As an independent and self-motivated learner, I am passionate about using data science to solve real-world problems. With practical experience in the latest technologies such as Python and C, I am excited to contribute my skills and knowledge to help make a positive impact.
+Hey, i am a passionate young full-stack developer fueled by a love for building amazing things with Firebase and React.  This is my digital playground, where ideas are sparked, code takes flight, and projects come to life.
+
+I'm on a never-ending quest to learn, grow, and push the boundaries of what's possible. Here, you'll find:
 
 Some facts about me: 
 -------------------------------------
@@ -17,26 +19,20 @@ Some facts about me:
 
 🍽 I start my day with “ A Cup of Coffee Eggs and Toast". 
 
-🧠 I am constantly learning new technologies. 
+🧠 I am constantly keeping in touch with new tech revolution. (AI is the new BIG thing) have you seen GPT-4o?! :-()
 
 💫 I live by the motto: "An addiction to distraction is the death of creative production".
 
 ### ✍ Languages and technologies I am familiar with:
 
-  
-  
-  
-  
-  
-  
-  <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
 
