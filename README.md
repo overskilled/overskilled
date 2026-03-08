@@ -1,75 +1,80 @@
-Hi 👋 My name is Yvan Ouatedem
-======================
+# Hi 👋 I'm Yvan Ouatedem
 
-FullStack Developer
--------------------------------------
+### Senior Software Developer · Founder · Mentor
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+I build production systems that solve real problems from enterprise blockchain ERP platforms to civic tech tools for water access transparency in Cameroon.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=overskiled&label=Profile%20views&color=0e75b6&style=flat" alt="overskilled" /> </p>
+Currently a Senior Software Developer at **Dash Tech** (Dashaco Holdings), where I architect and ship enterprise-grade SaaS products. In parallel, I run two live ventures: **[bookhub.cm](https://bookhub.cm)** (digital book marketplace for Cameroon) and **[MbokoFit](https://mbokofit.com)** (fitness & wellness platform for Francophone Africa, available on the [Play Store](https://play.google.com/store/apps/details?id=com.mbokofit)).
 
+I also serve as **Cohort Coordinator & Mentor** for the Qwasar Silicon Valley Coding Program delivered at JFN-HUI, guiding the next generation of Cameroonian developers through industry-standard software engineering training.
 
-Hey, i am a passionate young full-stack developer fueled by a love for building amazing things with Firebase and React.  This is my digital playground, where ideas are sparked, code takes flight, and projects come to life.
+---
 
-I'm on a never-ending quest to learn, grow, and push the boundaries of what's possible. Here, you'll find:
+### 🔧 What I'm Building
 
-Some facts about me: 
--------------------------------------
-❤ I love to discover new wonderful places around the world as much as I love to explore new technologies and techniques. 
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **ZYLO** | Enterprise blockchain-secured warehousing & ERP SaaS | Next.js · React Native · NestJS · PostgreSQL · Redis · Polygon Edge · GCP · Docker |
+| **Allô-Tech** | Multi-sided technician marketplace | Blazor · .NET MAUI · .NET 9 Microservices · SQL Server · Firebase · Stripe |
+| **AquaTrack Douala** | Citizen-powered water incident reporting & mapping platform | React · Node.js · Twilio WhatsApp API · Firebase · Leaflet.js · OpenWeatherMap |
+| **CAREPASS** | Personal health record system for Cameroon (B2B SaaS) | Targeting patients, clinics, hospitals, NGOs & government health programs |
+| **[bookhub.cm](https://bookhub.cm)** | Digital book & content marketplace | Live & revenue-generating |
+| **[MbokoFit](https://mbokofit.com)** | Fitness & wellness platform for Francophone Africa | Live on Play Store |
 
-🍽 I start my day with “ A Cup of Coffee Eggs and Toast". 
+---
 
-🧠 I am constantly keeping in touch with new tech revolution. (AI is the new BIG thing) have you seen GPT-4o?! :-()
+### 🛠 Tech Stack
 
-💫 I live by the motto: "An addiction to distraction is the death of creative production".
+**Frontend:** React · Next.js · Blazor · Tailwind CSS  
+**Mobile:** React Native · .NET MAUI · Flutter  
+**Backend:** NestJS · .NET 9 Microservices · Node.js · Express  
+**Databases:** PostgreSQL · MongoDB · Redis · SQL Server · Firebase Firestore  
+**DevOps & Infra:** Docker · GitHub Actions CI/CD · GCP · VPS · Cloud Cluster Management  
+**Blockchain:** Polygon Edge  
+**APIs & Services:** Twilio · Stripe · PayPal · Leaflet.js · OpenWeatherMap  
+**Deployment:** Vercel · Railway · On-premise Server Management  
 
-### ✍ Languages and technologies I am familiar with:
+---
 
-<p align="left">
- <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="Php" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="HTML5" /></a>
+### 📜 Credentials
+
+- 🎓 **Software Engineering Certificate** — Qwasar Silicon Valley  
+- 🎓 **DUT Computer Engineering** — JFN-HUI *(Mention Très Bien — Highest Honours)*  
+- 🎓 **Bachelor's in System & Network Administration** — Institut Universitaire de Douala  
+- 📊 **Monitoring, Reporting & Evaluation Certificate** (120h) — EU International Partnerships Academy  
+
+---
+
+### 📍 Based in Douala, Cameroon
+
+Building technology that bridges the gap between what African cities need and what currently exists. Focused on enterprise SaaS, civic tech, and health tech for the Francophone African market.
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=overskilled&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="overskilled" />
 </p>
 
-
-### Connect with me:
-
-  
-  
-  
-  
-  <a href="https://www.github.com/overskilled" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/rawling-mukhen-ab6395259/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-  <a href="https://medium.com/@rawlingsm" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rawlingsm" height="32" width="32" style="vertical-align: text-bottom;" />
-  </a>
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=overskilled&show_icons=true&locale=en&theme=tokyonight" alt="overskilled" />
 </p>
 
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=overskilled&theme=tokyonight" alt="overskilled" />
+</p>
 
+<br clear="both"/>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=overskilled&show_icons=true&locale=en&layout=compact" alt="overskilled" /></p>
+### 🤝 Connect
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=overskilled&show_icons=true&locale=en" alt="overskilled" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yvan-ouatedem/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/overskilled)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rawlingsm)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=overskilled&" alt="overskilled" /></p>
+---
 
-![](https://raw.githubusercontent.com/overskilled/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/overskilled/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/overskilled/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/overskilled/github-stats/master/generated/languages.svg#gh-light-mode-only)
-<!---
-overskilled/overskilled is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*"An addiction to distraction is the death of creative production."*
