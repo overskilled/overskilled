@@ -2,6 +2,11 @@
 
 ### Senior Software Developer · Founder · Mentor
 
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=overskiled&label=Profile%20views&color=0e75b6&style=flat" alt="overskilled" /> </p>
+
 I build production systems that solve real problems from enterprise blockchain ERP platforms to civic tech tools for water access transparency in Cameroon.
 
 Currently a Senior Software Developer at **Dash Tech** (Dashaco Holdings), where I architect and ship enterprise-grade SaaS products. In parallel, I run two live ventures: **[bookhub.cm](https://bookhub.cm)** (digital book marketplace for Cameroon) and **[MbokoFit](https://mbokofit.com)** (fitness & wellness platform for Francophone Africa, available on the [Play Store](https://play.google.com/store/apps/details?id=com.mbokofit)).
